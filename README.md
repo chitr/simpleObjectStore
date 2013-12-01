@@ -1,7 +1,7 @@
 simpleObjectStore
 =================
 
-Simple Object store provides a library with basic file/block device IO tasks distributed over p reconfigured object store.  
+Simple Object store provides a library with  file/block device IO tasks distributed over p reconfigured object store.  
 
 SimpleObjectStore library could be complimented with following :-
 
