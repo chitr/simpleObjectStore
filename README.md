@@ -11,4 +11,4 @@ SimpleObjectStore library could be complimented with following :-
   
 2.Striping/chunking big data to distributed object store.
 
-3.Designing multi-level distributed data-storage.
+3.Designing multi-layer distributed data-storage.
